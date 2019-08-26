@@ -1,0 +1,49 @@
+        body {
+            font-family: 'Red Hat Display', sans-serif;
+            margin-top: 100px;
+        }
+        
+        label {
+            font-weight: bold;
+        }
+        
+        .btn-acoes {
+            text-decoration: none;
+        }
+        
+        .foto_item {
+            width: 150px;
+            height: 200px;
+        }
+        
+        .foto_item img {
+            width: 150px;
+        }
+        
+        .btn-save {
+            margin-top: 100px;
+        }
+        
+        .btn-comprar {
+            border-radius: 0;
+        }
+        
+        .heart {
+            font-size: 30px;
+        }
+        
+        #link-index {
+            color: #000;
+        }
+        
+        #link-index:hover {
+            color: rgb(66, 66, 66);
+        }
+        
+        #link-index:active {
+            color: rgb(66, 66, 66);
+        }
+        
+        #link-index:visited {
+            color: rgb(66, 66, 66);
+        }
